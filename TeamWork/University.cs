@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace TeamWork
 {
-    class University
+    public class University
     {
         public int Id { get; set; }
 
